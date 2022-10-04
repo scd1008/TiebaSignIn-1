@@ -6,7 +6,7 @@ on:
    push:
    gollum:
    schedule:
-       - cron: '00 1 * * *'
+       - cron: '01 1 * * *'
 
 jobs:
   TiebaSignIn:
